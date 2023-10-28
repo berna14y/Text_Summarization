@@ -1,4 +1,4 @@
-# Text_Summarization
+# Text Summarization
 Text Summarization using BART and TF-IDF
 
 This code demonstrates two different approaches for generating document summaries: extractive and abstractive summarization. 
